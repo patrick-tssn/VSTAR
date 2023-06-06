@@ -121,11 +121,11 @@ python generate.py \
 
 ## Citation
 
-@misc{wang2023vstar,
-    title={VSTAR: A Video-grounded Dialogue Dataset for Situated Semantic Understanding with Scene and Topic Transitions},
-    author={Yuxuan Wang and Zilong Zheng and Xueliang Zhao and Jinpeng Li and Yueqian Wang and Dongyan Zhao},
-    year={2023},
-    eprint={2305.18756},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
+> @misc{wang2023vstar,
+>     title={VSTAR: A Video-grounded Dialogue Dataset for Situated Semantic Understanding with Scene and Topic Transitions},
+>     author={Yuxuan Wang and Zilong Zheng and Xueliang Zhao and Jinpeng Li and Yueqian Wang and Dongyan Zhao},
+>     year={2023},
+>     eprint={2305.18756},
+>     archivePrefix={arXiv},
+>     primaryClass={cs.CV}
+> }
