@@ -1,5 +1,3 @@
-# coding: utf-8
-# author: noctli
 import os
 import json
 import pickle
