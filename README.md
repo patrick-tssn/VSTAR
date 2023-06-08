@@ -1,7 +1,3 @@
-```
-
-```
-
 # VSTAR
 
 This is the official implementation of the ACL 2023 paper "VSTAR: A Video-grounded Dialogue Dataset for Situated Semantic Understanding with Scene and Topic Transitions"
