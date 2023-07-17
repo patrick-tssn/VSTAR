@@ -13,11 +13,11 @@ This is the official implementation of the ACL 2023 paper "VSTAR: A Video-ground
 
 ### Dialogues
 
-*Note: We will reserve the test split for further study*
+> support language: English, 简体中文
 
 - Downloads
 
-Storage: Train (196M); Valid(11.6M)
+Storage: Train (196M); Valid(11.6M); test (*Note: We will reserve the test split for further study*)
 
 Links: [BaiduNetDisk](https://pan.baidu.com/s/1sV1rLadxNnhQbAsr_r75Ow?pwd=b2m9) or [GoogleDrive](https://drive.google.com/drive/folders/16vB8bqDtkrYPGKBV_Og3Fk77yDrUi187?usp=sharing)
 
