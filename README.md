@@ -8,7 +8,7 @@ This is the official implementation of the ACL 2023 paper "VSTAR: A Video-ground
 
 - [X] release dialogues
 - [X] release feature (resnet, rcnn)
-- [ ] release meta data (genres, keywords, storyline, characters (name, avatar))
+- [ ] release meta data (genres, keywords, storyline, characters: name, avatar)
 - [ ] release frames
 
 ### Dialogues
