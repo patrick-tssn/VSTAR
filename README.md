@@ -98,6 +98,16 @@ pip install -r requirements.txt
 
 ## Scene Segmentation
 
+- Preprocess 
+
+move `train.json`, `valid.json`, `test.json` to `inputs` directory
+
+run following script to change the original to binary format to run our baseline smoothly (check in our paper)
+```bash
+cd inputs
+python preprocess.py
+```
+
 - Train
 
 ```
