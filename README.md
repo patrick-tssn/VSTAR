@@ -8,6 +8,7 @@ This is the official implementation of the ACL 2023 paper "VSTAR: A Video-ground
 
 - [X] release dialogues
 - [X] release feature (resnet, rcnn)
+- [X] release test data (2024.07.17)
 - [ ] release meta data (genres, keywords, storyline, characters: name, avatar)
 - [ ] release frames
 
@@ -17,7 +18,7 @@ This is the official implementation of the ACL 2023 paper "VSTAR: A Video-ground
 
 - Downloads
 
-Storage: Train (196M); Valid(11.6M); test (*Note: We will reserve the test split for further study*)
+Storage: Train (196M); Valid(11.6M); test (24M)
 
 Links: [BaiduNetDisk](https://pan.baidu.com/s/1sV1rLadxNnhQbAsr_r75Ow?pwd=b2m9) or [GoogleDrive](https://drive.google.com/drive/folders/16vB8bqDtkrYPGKBV_Og3Fk77yDrUi187?usp=sharing)
 
@@ -27,6 +28,7 @@ Links: [BaiduNetDisk](https://pan.baidu.com/s/1sV1rLadxNnhQbAsr_r75Ow?pwd=b2m9) 
 | ----- | ------- | --------- | ---------- | ---------- |
 | Train | 172,041 | 4,319,381 | 2.42       | 3.68       |
 | Val   | 9753    | 250,311   | 2.64       | 4.29       |
+| Test   | 9779    | 250,436   | 2.56       | 4.12       |
 
 - Format
 
