@@ -110,13 +110,6 @@ cd inputs/full
 python preprocess.py
 ```
 
-To use `coco_caption` for evaluation, run the following script to generate the reference file:
-```bash
-cd inputs/full
-python coco_caption_reformat.py
-```
-for the evaluation details, please refer to: https://github.com/tylin/coco-caption
-
 - Train
 
 ```
@@ -158,6 +151,14 @@ python generate_seg.py \
 ```
 
 ## Dialogue Generation
+
+To use `coco_caption` for evaluation, run the following script to generate the reference file:
+```bash
+cd inputs/full
+python coco_caption_reformat.py
+```
+for the evaluation details, please refer to: https://github.com/tylin/coco-caption
+
 
 - Train
 
