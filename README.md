@@ -102,13 +102,20 @@ pip install -r requirements.txt
 
 - Preprocess 
 
-move `train.json`, `valid.json`, `test.json` to `inputs` directory
+move `train.json`, `valid.json`, `test.json` to `inputs/full` directory
 
 run following script to change the original to binary format to run our baseline smoothly (check in our paper)
 ```bash
-cd inputs
+cd inputs/full
 python preprocess.py
 ```
+
+To use `coco_caption` for evaluation, run the following script to generate the reference file:
+```bash
+cd inputs/full
+python coco_caption_reformat.py
+```
+for the evaluation details, please refer to: https://github.com/tylin/coco-caption
 
 - Train
 
