@@ -47,7 +47,7 @@ def reformat(split):
         ori_session = clip_dct['session']
         new_dct[clip_id]['session'] = new_session
         new_dct[clip_id]['scene'] = new_scene
-    with open("pro_seg_clip_{}.json".format(split), 'w') as jh:
+    with open("pro_seg_clip_{}_ori.json".format(split), 'w') as jh:
         json.dump(new_dct, jh)
 
 def revise():
